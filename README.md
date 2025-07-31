@@ -40,25 +40,13 @@
 ## 📊 My Skill Progress
 
 *HTML*  
-<div style="background: blue; width: 400px; border-radius: 5px;">
-  <div style="background: #ff784e; width: 50%; padding: 4px; border-radius: 5px; text-align: center; color: white;">
-    50%
-  </div>
-</div>
+██████████░░░░░░░░░░ 50%  
 
 *CSS*  
-<div style="background: #1572B6; width: 400px; border-radius: 5px;">
-  <div style="background: #33a9dc; width: 40%; padding: 4px; border-radius: 5px; text-align: center; color: white;">
-    40%
-  </div>
-</div>
+███████░░░░░░░░░░░░ 40%  
 
 *JavaScript*  
-<div style="background: #f7df1e; width: 400px; border-radius: 5px;">
-  <div style="background: #ffe873; width: 20%; padding: 4px; border-radius: 5px; text-align: center; color: black;">
-    20%
-  </div>
-</div>
+███░░░░░░░░░░░░░░░░ 20%
 
 ---
 
