@@ -40,13 +40,13 @@
 ## 📊 My Skill Progress
 
 <p>
-<img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> <b>HTML</b>  
+<b>HTML</b>  
 <img src="https://progress-bar.dev/50/?title=50%25&width=400&color=E34F26">  
 <br/>
-<img src="https://img.icons8.com/color/48/css3.png" width="30"/> <b>CSS</b>  
+<b>CSS</b>  
 <img src="https://progress-bar.dev/40/?title=40%25&width=400&color=1572B6">  
 <br/>
-<img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/> <b>JavaScript</b>  
+<b>JavaScript</b>  
 <img src="https://progress-bar.dev/20/?title=20%25&width=400&color=F7DF1E">  
 </p>
 
@@ -72,12 +72,6 @@
 </p>
 
 ---
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/eRikx08"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
 
 ---
 
