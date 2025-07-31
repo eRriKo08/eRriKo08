@@ -40,12 +40,14 @@
 ## 📊 My Skill Progress
 
 <p>
-<b>HTML</b>  
+<img src="https://img.icons8.com/color/48/html-5--v1.png" width="30"/> <b>HTML</b>  
 <img src="https://progress-bar.dev/50/?title=50%25&width=400&color=E34F26">  
-<b>CSS</b>  
+<br/>
+<img src="https://img.icons8.com/color/48/css3.png" width="30"/> <b>CSS</b>  
 <img src="https://progress-bar.dev/40/?title=40%25&width=400&color=1572B6">  
-<b>JavaScript</b>  
-<img src="https://progress-bar.dev/20/?title=20%25&width=400&color=F7DF1E">  
+<br/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" width="30"/> <b>JavaScript</b>  
+<img src="https://progress-bar.dev/20/?title=20%25&width=400&color=F7DF1E">  
 </p>
 
 ---
