@@ -66,16 +66,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eRikx08&show_icons=true&theme=tokyonight" alt="Eryk's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eRikx08&theme=tokyonight" alt="Eryk's streak"/>
-</p>
-
 ---
 
 ## 👀 Profile Visitors
