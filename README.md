@@ -60,10 +60,6 @@
 
 ## 🌟 My Projects
 
-- [*QR-CODE*](https://github.com/eRikx08/QR-CODE) – Simple and clean QR code generator  
-- [*PROFILE-CARD*](https://github.com/eRikx08/PROFILE-CARD) – Stylish profile card component  
-- [*CARD*](https://github.com/eRikx08/CARD) – Customizable card layout  
-
 ---
 
 ---
