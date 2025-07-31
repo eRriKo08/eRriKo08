@@ -39,16 +39,26 @@
 
 ## 📊 My Skill Progress
 
-<p>
-<b>HTML</b>  
-<img src="https://progress-bar.dev/50/?title=50%25&width=400&color=E34F26">  
-<br/>
-<b>CSS</b>  
-<img src="https://progress-bar.dev/40/?title=40%25&width=400&color=1572B6">  
-<br/>
-<b>JavaScript</b>  
-<img src="https://progress-bar.dev/20/?title=20%25&width=400&color=F7DF1E">  
-</p>
+*HTML*  
+<div style="background: #e34c26; width: 400px; border-radius: 5px;">
+  <div style="background: #ff784e; width: 50%; padding: 4px; border-radius: 5px; text-align: center; color: white;">
+    50%
+  </div>
+</div>
+
+*CSS*  
+<div style="background: #1572B6; width: 400px; border-radius: 5px;">
+  <div style="background: #33a9dc; width: 40%; padding: 4px; border-radius: 5px; text-align: center; color: white;">
+    40%
+  </div>
+</div>
+
+*JavaScript*  
+<div style="background: #f7df1e; width: 400px; border-radius: 5px;">
+  <div style="background: #ffe873; width: 20%; padding: 4px; border-radius: 5px; text-align: center; color: black;">
+    20%
+  </div>
+</div>
 
 ---
 
